@@ -94,7 +94,8 @@
   background-color: rgb(240, 215, 169);
   height: 12rem;
   text-align: center;
-padding-top: 2.8rem;
+padding-top: 2rem;
+    margin-top: -0.8rem;
   
 }
 
@@ -217,7 +218,7 @@ margin-right: 2em;
 
 .one{
   display: flex;
-  margin-top: 10.5rem;
+  margin-top: 9rem;
 background-color: #4a1831;
 padding-top: 2em;
 text-align: center;
@@ -294,6 +295,8 @@ height: 15rem;
   padding-bottom: 1.5rem;
   color: #4a1831;
   font-family: Georgia, 'Times New Roman', Times, serif;
+     padding-left: 0.5rem;
+  padding-right: 0.5rem;
 }
 
 
